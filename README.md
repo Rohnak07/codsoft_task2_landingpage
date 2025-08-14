@@ -30,19 +30,19 @@ This landing page can be used for:
 ## 📸 Preview  
 
 ### 🏠 Home Page  
-![Home](Screenshots/Home_page.png)  
+![Home](Screenshot/Home_page.png)  
 
 ### 👨‍⚕️ About Doctor  
-![About](Screenshots/About.png)  
+![About](Screenshot/About.png)  
 
 ### 💊 Services & Treatments  
-![Services](Screenshots/Review.png) 
+![Services](Screenshot/Review.png) 
 
 ### 🙏 Patients Reviews  
-![Contact](Screenshots/Contact.png)  
+![Contact](Screenshot/Contact.png)  
 
 ### 📞 Book Appointment / Contact  
-![Contact](Screenshots/Contact.png)  
+![Contact](Screenshot/Contact.png)  
 
 ---
 
