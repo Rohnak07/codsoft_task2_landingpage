@@ -85,11 +85,12 @@ This project is built using modern web technologies:
 
 💡 If you want to collaborate, share feedback, or just say hi — feel free to connect with me!  
 
-- 📧 *Email:* [rohnakkumarsingh752004@gmail.com](mailto:rohnakkumarsingh752004@gmail.com)  
-- 💼 *LinkedIn:* [linkedin.com/in/rohnaksingh](https://www.linkedin.com/in/rohnaksingh)  
-- 🌍 *Portfolio:* [rohnak07.github.io/codsoft_task1_portfolio](https://rohnak07.github.io/codsoft_task1_portfolio/)  
-- 🐙 *GitHub:* [github.com/Rohnak07](https://github.com/Rohnak07)  
-- 📄 *CV/Resume:* [View My CV](https://drive.google.com/file/d/1UC9H4ic3ZsaOeTGE2-FmFe6_kDoAVVtI/view?usp=drivesdk)  
+- 📧 Email:  [rohnakkumarsingh752004@gmail.com](mailto:rohnakkumarsingh752004@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/rohnaksingh](https://www.linkedin.com/in/rohnaksingh)  
+- 🌍 Portfolio: [rohnak07.github.io/codsoft_task1_portfolio](https://rohnak07.github.io/codsoft_task1_portfolio/)  
+- 🐙 GitHub: [github.com/Rohnak07](https://github.com/Rohnak07)  
+- 📄 CV/Resume: [View My CV](https://drive.google.com/file/d/1UC9H4ic3ZsaOeTGE2-FmFe6_kDoAVVtI/view?usp=drivesdk)  
+
 ---
 
 🔥 Let’s build something amazing together! 🚀  
